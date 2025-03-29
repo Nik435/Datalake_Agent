@@ -54,7 +54,7 @@ Needed are:
 2. stack.sqlite
 3. trial.sqlite (must be renamed to clinicalTrial.sqlite )
 4. hm.sqlite (must be renamed to hmShop.sqlite)
-5. f1.sqlite (must be renamed to formula1.sqlite)
+5. f1.sqlite (must be renamed to formula1.sqlite)\
 The databases must included into the databases folder\
 The databases can be found on: https://relbench.stanford.edu/ \
 The descriptions from RelBench their used in the dBdescription.json
